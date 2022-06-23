@@ -1,0 +1,15 @@
+File: T1.gif, Kernel Size:5, Time Taken:40.7599 seconds
+File: T1.gif, Kernel Size:9, Time Taken:58.3465 seconds
+File: T1.gif, Kernel Size:11, Time Taken:65.914 seconds
+File: T2.gif, Kernel Size:5, Time Taken:28.6464 seconds
+File: T2.gif, Kernel Size:9, Time Taken:35.1098 seconds
+File: T2.gif, Kernel Size:11, Time Taken:48.5099 seconds
+File: T3.gif, Kernel Size:5, Time Taken:28.3562 seconds
+File: T3.gif, Kernel Size:9, Time Taken:36.9076 seconds
+File: T3.gif, Kernel Size:11, Time Taken:47.5528 seconds
+File: T4.gif, Kernel Size:5, Time Taken:23.6185 seconds
+File: T4.gif, Kernel Size:9, Time Taken:26.979 seconds
+File: T4.gif, Kernel Size:11, Time Taken:39.3306 seconds
+File: T5.gif, Kernel Size:5, Time Taken:123.8438 seconds
+File: T5.gif, Kernel Size:9, Time Taken:173.1245 seconds
+File: T5.gif, Kernel Size:11, Time Taken:170.7191 seconds
