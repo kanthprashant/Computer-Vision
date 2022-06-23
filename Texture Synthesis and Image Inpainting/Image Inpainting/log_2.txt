@@ -1,0 +1,13 @@
+File: test_im1.bmp, Kernel Size:5, Time Taken:419.4565 seconds
+File: test_im1.bmp, Kernel Size:9, Time Taken:740.3836 seconds
+File: test_im1.bmp, Kernel Size:11, Time Taken:1071.2232 seconds
+File: test_im1.bmp, Kernel Size:15, Time Taken:1631.4592 seconds
+File: test_im1.bmp, Kernel Size:17, Time Taken:2286.8628 seconds
+File: test_im1.bmp, Kernel Size:21, Time Taken:3204.4843 seconds
+File: test_im2.bmp, Kernel Size:5, Time Taken:184.6985 seconds
+File: test_im2.bmp, Kernel Size:9, Time Taken:322.5908 seconds
+File: test_im2.bmp, Kernel Size:11, Time Taken:425.2403 seconds
+File: test_im2.bmp, Kernel Size:15, Time Taken:657.1364 seconds
+File: test_im2.bmp, Kernel Size:17, Time Taken:979.1365 seconds
+File: test_im2.bmp, Kernel Size:21, Time Taken:1452.2824 seconds
+
